@@ -10,7 +10,7 @@ The tool runs entirely in your web browser. Each time you click a button, it gen
 
 ## ⬇️ Download & Run
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-CS2%20Crosshair%20Tool-blue?style=for-the-badge&logo=github)](https://github.com/sofuu-tech/counter-strike-crosshair-script)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-CS2%20Crosshair%20Tool-blue?style=for-the-badge&logo=github)](https://sofuu-tech.github.io)
 
 Visit this link to download the application.
 
